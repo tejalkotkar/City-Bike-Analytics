@@ -16,7 +16,7 @@ My visualizations use data from January 2020 through December 2021.
 ### Instructions:
 * [Instructions](Instructions/Instructions.md)
 
-### City Bike Analysis:
+### City Bike Analysis/Observations:
 1) Total trips in 2020 were 336,802. Ridership has increased from June to October. Can be because of Summer and Fall months.  Highest ridership being recorded in October with 43,537 riders.  However April is on bottom with only 9268 riders.
 
 ![Total Trips](Final-Images/Total-Trips.PNG)
